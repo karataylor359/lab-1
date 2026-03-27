@@ -1,5 +1,5 @@
 # Lab 1-1: Git and HTML
-5 points
+10 points
 
 **DUE: Friday, Mar 27 by 8:30pm, i.e. by the end of class**
 
